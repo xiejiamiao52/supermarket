@@ -62,4 +62,8 @@ public class Usercontroller {
     public String nothriz(){
        return  "未授权页面";
     }
+    
+    public String  aa(){
+        return  "";
+
 }
