@@ -63,7 +63,5 @@ public class Usercontroller {
        return  "未授权页面";
     }
     
-    public String  aa(){
-        return  "";
 
 }
